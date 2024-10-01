@@ -175,7 +175,7 @@ section{
 
 .content .typewriter-text{
     color: #077b32;
-    text-shadow: 0 0 10px #077b32;
+    text-shadow: 0 0 10px hsl(142, 89%, 25%);
 }
 
 .content p{

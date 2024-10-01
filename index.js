@@ -46,3 +46,10 @@ function eraseText(){
 }
 
 window.onload = typeWriter
+
+// about section 
+AOS.init({
+  offset: 0,
+  duration: 1500,
+  once: true
+});
