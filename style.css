@@ -217,6 +217,14 @@ section{
     font-weight: 700;
     border-radius: 5px;
     transition: 0.2s linear;
+   
+}
+.hire-btn a{
+    text-decoration: none;
+    color: black;
+}
+.hire-btn a:hover{
+    color: #077b32;
 }
 
 .content button:hover{
